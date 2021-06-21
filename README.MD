@@ -8,7 +8,7 @@ Extended Bootstrap theming package with predefined Sass variables, helpers, and 
 </ol>
 
 ### Documentation
-For customizing, theming & component features read more on <a href="https://getbootstrap.com/docs/5.0/customize" target="_blank">Bootstrap documentation</a>. This package works only with <b>Bootstrap 4</b> version! Now, theming is accomplished by Sass variables, Sass maps, and custom CSS. There’s no more dedicated theme stylesheet; instead, you can enable the built-in theme to add gradients, shadows, and more.
+For customizing, theming & component features read more on <a href="https://getbootstrap.com/docs/5.0/customize" target="_blank">Bootstrap documentation</a>. This package works only with <b>Bootstrap 5</b> version! Now, theming is accomplished by Sass variables, Sass maps, and custom CSS. There’s no more dedicated theme stylesheet; instead, you can enable the built-in theme to add gradients, shadows, and more.
 
 ### File structure
 Whenever possible, avoid modifying Bootstrap’s core files. For Sass, that means creating your own stylesheet that imports Bootstrap so you can modify and extend it. Assuming you’re using a package manager like npm, you’ll have a file structure that looks like this:
